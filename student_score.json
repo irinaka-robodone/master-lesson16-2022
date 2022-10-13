@@ -1,0 +1,31 @@
+{
+    "students":[
+    {
+        "number":0, 
+        "japanese":65,
+        "math":70,
+        "Science":80,
+        "Social":50
+    },
+    {
+        "number":1, 
+        "japanese":40,
+        "math":90,
+        "Science":100,
+        "Social":45
+    },
+    {
+        "number":2, 
+        "japanese":10,
+        "math":20,
+        "Science":100,
+        "Social":15
+    },
+    {
+        "number":3, 
+        "japanese":100,
+        "math":100,
+        "Science":100,
+        "Social":95
+    }]
+}
