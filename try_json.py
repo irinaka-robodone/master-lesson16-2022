@@ -2,8 +2,11 @@ import json
 
 f = open("student_score.json")
 data = json.load(f)
+
+#平均点　for文を使う
+for i in range(4)
+        pass
+合計/(個数)=aaa
 print("-------生徒一人目-------")
-print(data["students"][3]["japanese"])
-print(data["students"][2]["japanese"])
-print(data["students"][1]["japanese"])
+
 f.close()
